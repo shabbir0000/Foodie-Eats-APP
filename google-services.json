@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194271383897",
+    "project_id": "lahorifoods-demo",
+    "storage_bucket": "lahorifoods-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194271383897:android:cb8f7897b83b6e29d03c48",
+        "android_client_info": {
+          "package_name": "com.rs.lahori"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194271383897-terlfrbvk05t740rv5uj72t12rf9rfbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Sf2hZnTXMN3o3Lr8YeukcrORNNtr-Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194271383897-terlfrbvk05t740rv5uj72t12rf9rfbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
